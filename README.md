@@ -2,7 +2,15 @@
 
 A vibrant neon theme optimized for MERN stack development in Visual Studio Code.
 
-![Theme Preview](./theme-preview.png)
+# MERN Neon Theme
+
+A vibrant neon theme optimized for MERN stack development in Visual Studio Code.
+
+![Theme Preview](https://raw.githubusercontent.com/Ahteshamull/VS-Code-Extension-MERN-Neon-Theme/main/images/Screenshot_2.png)
+
+## Features
+
+...
 
 ## Features
 
