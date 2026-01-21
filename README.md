@@ -1,8 +1,8 @@
-# MERN Neon Theme
+# Color Theme for Backend
 
 A vibrant neon theme optimized for MERN stack development in Visual Studio Code.
 
-# MERN Neon Theme
+# Color Theme for Backend
 
 A vibrant neon theme optimized for MERN stack development in Visual Studio Code.
 

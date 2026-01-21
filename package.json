@@ -1,8 +1,8 @@
 {
   "name": "mern-neon-theme",
-  "displayName": "Neon Color Theme",
+  "displayName": "Color Theme for Backend",
   "description": "A vibrant neon theme optimized for MERN stack development",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "icon.png",
   "publisher": "hasan-dev",
   "engines": {
@@ -15,7 +15,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Neon Color Theme",
+        "label": "Color Theme for Backend",
         "uiTheme": "vs-dark",
         "path": "./themes/mern-neon-dark.json"
       }
@@ -23,7 +23,7 @@
     "iconThemes": [
       {
         "id": "mern-neon-icons",
-        "label": "Neon Color Theme Icons",
+        "label": "Color Theme for Backend Icons",
         "path": "./icons/file-icon-theme.json"
       }
     ]
