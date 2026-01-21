@@ -1,8 +1,9 @@
 {
   "name": "mern-neon-theme",
-  "displayName": "MERN Neon Theme",
+  "displayName": "Neon Color Theme",
   "description": "A vibrant neon theme optimized for MERN stack development",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "icon": "icon.png",
   "publisher": "hasan-dev",
   "engines": {
     "vscode": "^1.60.0"
@@ -14,7 +15,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "MERN Neon Flow",
+        "label": "Neon Color Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/mern-neon-dark.json"
       }
@@ -22,7 +23,7 @@
     "iconThemes": [
       {
         "id": "mern-neon-icons",
-        "label": "MERN Neon Icons",
+        "label": "Neon Color Theme Icons",
         "path": "./icons/file-icon-theme.json"
       }
     ]
