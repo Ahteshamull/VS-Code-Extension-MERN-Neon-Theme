@@ -1,0 +1,27 @@
+{
+  "iconDefinitions": {
+    "js": { "iconPath": "./js.svg" },
+    "jsx": { "iconPath": "./react.svg" },
+    "ts": { "iconPath": "./ts.svg" },
+    "tsx": { "iconPath": "./react.svg" },
+    "json": { "iconPath": "./json.svg" },
+    "env": { "iconPath": "./env.svg" },
+    "mongo": { "iconPath": "./mongo.svg" }
+  },
+
+  "fileExtensions": {
+    "js": "js",
+    "jsx": "jsx",
+    "ts": "ts",
+    "tsx": "tsx",
+    "json": "json"
+  },
+
+  "fileNames": {
+    ".env": "env",
+    "mongoose.js": "mongo"
+  },
+
+  "folder": "folder",
+  "folderExpanded": "folder-open"
+}
